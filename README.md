@@ -1,4 +1,4 @@
-# Percolation detection
+# Percolation in a lattice
 When coffee is strained through a series of filters, it has successfully percolated. Like coffee, other things also percolate (water, diseases, blood, polymers, networks of neurons, etc). Read this great Scientific American article for a fun intro: https://www.scientificamerican.com/article/the-mathematics-of-how-connections-become-global/. 
 
 Physicists care about percolation because it typically marks a phase transition, where the nature of microscopic interactions fundamentally change to allow long range correlations. 
